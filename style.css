@@ -10,11 +10,11 @@ body {
 }
 
 .sec1 {
-  background-image: url("images/image1.png");
+  background-image: url("image1.png");
   min-height: 100%;
 }
 .sec2 {
-  background-image: url("images/image2.png");
+  background-image: url("image2.png");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,7 +22,7 @@ body {
 }
 
 .sec3 {
-  background-image: url("images/image3.png");
+  background-image: url("image3.png");
   min-height: 400px;
   display: flex;
   justify-content: center;
